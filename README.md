@@ -19,4 +19,6 @@ This repository documents structured web design implementations. Development foc
 WD_0599/
 ├── Experiment 1/
 │   └── index.html
+├── Experiment 2/
+│   └── index.html
 └── README.md
