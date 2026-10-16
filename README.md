@@ -26,7 +26,7 @@
 
 This repository records my progress in the **Web Design Workshop**. It contains college assignments, practical exercises, and experiments created while learning HTML.
 
-This is a work in progress. **More experiments will be added throughout the course**, and the directory below is designed to grow with them.
+This is a work in progress. **More experiments will be added throughout the course**.
 
 ## Experiments
 
@@ -39,7 +39,6 @@ This is a work in progress. **More experiments will be added throughout the cour
 | **Experiment 4** | [Open `index.html`](./Experiment%204/index.html) | [Browse ↗](./Experiment%204/) |
 <!-- EXPERIMENTS:END -->
 
-> **A growing index:** GitHub Actions can refresh this table after you push new experiment folders. Folder names should start with `Experiment` (for example, `Experiment 5`).
 
 ## How to view the work
 
