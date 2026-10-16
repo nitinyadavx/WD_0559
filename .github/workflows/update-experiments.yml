@@ -1,0 +1,41 @@
+name: Refresh experiment index
+
+on:
+  push:
+    paths:
+      - 'Experiment*/**'
+      - 'Experiment*'
+      - 'scripts/update_experiments.py'
+      - '.github/workflows/update-experiments.yml'
+      - 'README.md'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh-index:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Update experiment table
+        run: python scripts/update_experiments.py
+
+      - name: Commit README if it changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "README experiment index is already current."
+          else
+            git commit -m "docs: refresh experiment index"
+            git push
+          fi

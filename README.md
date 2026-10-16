@@ -1,28 +1,94 @@
-# WD_0599 | Web Design Architecture
+<div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
+# WD_0559 · Web Design Workshop
 
-Central repository for practical laboratory deliverables under Student code `WD_0599`.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=850&color=F2A7C6&center=true&vCenter=true&repeat=true&width=700&height=55&lines=HTML+%26+Web+Design+Workshop;College+Assignments+%26+Practical+Experiments;Learning+by+building%2C+one+page+at+a+time" alt="Animated text: HTML and Web Design Workshop" />
+
+**My growing collection of college practicals, assignments, and HTML experiments.**
+
+<a href="#experiments"><img src="https://img.shields.io/badge/EXPLORE-EXPERIMENTS-F2A7C6?style=for-the-badge&labelColor=17171C" alt="Explore experiments" /></a>
+<a href="https://github.com/nitinyadavx/WD_0559/actions"><img src="https://img.shields.io/badge/GITHUB-ACTIONS-FFFFFF?style=for-the-badge&logo=githubactions&logoColor=17171C&labelColor=17171C" alt="GitHub Actions" /></a>
+
+<br />
+
+![HTML5](https://img.shields.io/badge/HTML5-learning-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Last commit](https://img.shields.io/github/last-commit/nitinyadavx/WD_0559?style=flat-square&color=F2A7C6&label=last%20updated)
+![Stars](https://img.shields.io/github/stars/nitinyadavx/WD_0559?style=flat-square&color=9CA3AF&label=stars)
+![Experiment index](https://img.shields.io/github/actions/workflow/status/nitinyadavx/WD_0559/update-experiments.yml?style=flat-square&label=experiment%20index)
+
+[Repository](https://github.com/nitinyadavx/WD_0559) · [Experiments](#experiments) · [How to view](#how-to-view-the-work) · [Learning goals](#learning-goals)
+
+</div>
 
 ---
 
-## 🏗️ Architecture
+## About this repository
 
-This repository documents structured web design implementations. Development focuses on semantic markup, document hierarchy, structural integrity, and web accessibility (WCAG compliance).
+This repository records my progress in the **Web Design Workshop**. It contains college assignments, practical exercises, and experiments created while learning HTML.
+
+This is a work in progress. **More experiments will be added throughout the course**, and the directory below is designed to grow with them.
+
+## Experiments
+
+<!-- EXPERIMENTS:START -->
+| Experiment | Source file | Folder |
+|---|---|---|
+| **Experiment 1** | [Open `index.html`](./Experiment%201/index.html) | [Browse ↗](./Experiment%201/) |
+| **Experiment 2** | [Open `index.html`](./Experiment%202/index.html) | [Browse ↗](./Experiment%202/) |
+| **Experiment 3** | [Open `index.html`](./Experiment%203/index.html) | [Browse ↗](./Experiment%203/) |
+| **Experiment 4** | [Open `index.html`](./Experiment%204/index.html) | [Browse ↗](./Experiment%204/) |
+<!-- EXPERIMENTS:END -->
+
+> **A growing index:** GitHub Actions can refresh this table after you push new experiment folders. Folder names should start with `Experiment` (for example, `Experiment 5`).
+
+## How to view the work
+
+**On GitHub:** open an experiment folder, then select its HTML file to review the source.
+
+**In your browser:** download or clone the repository and open the relevant `.html` file in a browser. The current HTML exercises do not need a build step.
+
+```bash
+git clone https://github.com/nitinyadavx/WD_0559.git
+cd WD_0559
+```
+
+## Learning goals
+
+- **HTML foundations:** build well-structured pages with meaningful elements.
+- **Readable code:** use clear indentation, consistent naming, and simple document structure.
+- **Usability and accessibility:** practise logical reading order, descriptive links, and text alternatives where relevant.
+- **Testing and debugging:** open pages in a browser, spot problems, and improve the result.
+- **Version control:** organise coursework and track changes with GitHub.
+
+The specific concepts covered will depend on each assigned experiment.
+
+## Tools in this repository
+
+| Tool | Purpose |
+|---|---|
+| HTML5 | Page structure and markup |
+| GitHub | Source hosting, history, and collaboration |
+| GitHub Actions | Refresh the experiment index when experiment files change |
+| Shields.io | Live repository and workflow badges |
+| readme-typing-svg | Animated heading in this README |
+
+## Adding a new experiment
+
+1. Create a new folder at the repository root, such as `Experiment 5`.
+2. Put the practical files inside it. Use `index.html` as the main page when suitable.
+3. Commit and push the folder to GitHub.
+4. The **Refresh experiment index** workflow will update the table above. You can check its result under the repository's **Actions** tab.
+
+If the workflow has not run, open **Actions → Refresh experiment index** and select **Run workflow**.
+
+## Maintainer
+
+**Nitin Yadav** · [@nitinyadavx](https://github.com/nitinyadavx)
 
 ---
 
-## 📂 Directory Map
+<div align="center">
 
-```text
-WD_0599/
-├── Experiment 1/
-│   └── index.html
-├── Experiment 2/
-│   └── index.html
-├── Experiment 3/
-│   └── index.html
-├── Experiment 4/
-│   └── index.html
-└── README.md
+*Learn by building. Improve by testing. Progress one experiment at a time.*
+
+</div>
