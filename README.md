@@ -2,7 +2,7 @@
 
 # Web Design Workshop
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=850&color=F2A7C6&center=true&vCenter=true&repeat=true&width=700&height=55&lines=HTML+%26+Web+Design+Workshop;College+Assignments+%26+Practical+Experiments;Learning+by+building%2C+one+page+at+a+time" alt="Animated text: HTML and Web Design Workshop" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=850&color=F2A7C6&center=true&vCenter=true&repeat=true&width=700&height=55&lines=HTML+%26+Web+Design+Workshop;College+Assignments+%26+Practical+Experiments;Learning+by+building" alt="Animated text: HTML and Web Design Workshop" />
 
 **My growing collection of college practicals, assignments, and HTML experiments.**
 
