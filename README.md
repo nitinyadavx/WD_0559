@@ -1,6 +1,6 @@
 <div align="center">
 
-# WD_0559 · Web Design Workshop
+# Web Design Workshop
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=850&color=F2A7C6&center=true&vCenter=true&repeat=true&width=700&height=55&lines=HTML+%26+Web+Design+Workshop;College+Assignments+%26+Practical+Experiments;Learning+by+building%2C+one+page+at+a+time" alt="Animated text: HTML and Web Design Workshop" />
 
@@ -72,14 +72,6 @@ The specific concepts covered will depend on each assigned experiment.
 | Shields.io | Live repository and workflow badges |
 | readme-typing-svg | Animated heading in this README |
 
-## Adding a new experiment
-
-1. Create a new folder at the repository root, such as `Experiment 5`.
-2. Put the practical files inside it. Use `index.html` as the main page when suitable.
-3. Commit and push the folder to GitHub.
-4. The **Refresh experiment index** workflow will update the table above. You can check its result under the repository's **Actions** tab.
-
-If the workflow has not run, open **Actions → Refresh experiment index** and select **Run workflow**.
 
 ## Maintainer
 
@@ -89,6 +81,6 @@ If the workflow has not run, open **Actions → Refresh experiment index** and s
 
 <div align="center">
 
-*Learn by building. Improve by testing. Progress one experiment at a time.*
+*Learn by building. Improve by testing.*
 
 </div>
