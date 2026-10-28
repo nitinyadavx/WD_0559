@@ -33,13 +33,13 @@ This is a work in progress. **More experiments will be added throughout the cour
 <!-- EXPERIMENTS:START -->
 | Experiment | Source file | Folder |
 |---|---|---|
-| **Exams** | [View `Practicals`](./Exams/MT1-Practical.html) | [Browse ↗](./Exams/)
-| **Experiment 1** | [Open `index.html`](./Experiment%201/index.html) | [Browse ↗](./Experiment%201/) |
-| **Experiment 2** | [Open `index.html`](./Experiment%202/index.html) | [Browse ↗](./Experiment%202/) |
-| **Experiment 3** | [Open `index.html`](./Experiment%203/index.html) | [Browse ↗](./Experiment%203/) |
-| **Experiment 4** | [Open `index.html`](./Experiment%204/index.html) | [Browse ↗](./Experiment%204/) |
-| **Experiment 5** | [Open `index.html`](./Experiment%205/index.html) | [Browse ↗](./Experiment%205/) |
-| **Experiment 6** | [Open `index.html`](./Experiment%206/index.html) | [Browse ↗](./Experiment%206/) |
+| **Exams** | [Browse ↗](./Exams/)
+| **Experiment 1** [Browse ↗](./Experiment%201/) |
+| **Experiment 2** [Browse ↗](./Experiment%202/) |
+| **Experiment 3** [Browse ↗](./Experiment%203/) |
+| **Experiment 4** [Browse ↗](./Experiment%204/) |
+| **Experiment 5** [Browse ↗](./Experiment%205/) |
+| **Experiment 6** [Browse ↗](./Experiment%206/) |
 <!-- EXPERIMENTS:END -->
 
 
