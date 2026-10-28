@@ -39,6 +39,7 @@ This is a work in progress. **More experiments will be added throughout the cour
 | **Experiment 3** | [Open `index.html`](./Experiment%203/index.html) | [Browse ↗](./Experiment%203/) |
 | **Experiment 4** | [Open `index.html`](./Experiment%204/index.html) | [Browse ↗](./Experiment%204/) |
 | **Experiment 5** | [Open `index.html`](./Experiment%205/index.html) | [Browse ↗](./Experiment%205/) |
+| **Experiment 6** | [Open `index.html`](./Experiment%206/index.html) | [Browse ↗](./Experiment%206/) |
 <!-- EXPERIMENTS:END -->
 
 
