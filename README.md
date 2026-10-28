@@ -31,15 +31,15 @@ This is a work in progress. **More experiments will be added throughout the cour
 ## Experiments
 
 <!-- EXPERIMENTS:START -->
-| Experiment| Folder |
-|---|---|---|
-| **Exams** | [Browse ↗](./Exams/)
-| **Experiment 1** [Browse ↗](./Experiment%201/) |
-| **Experiment 2** [Browse ↗](./Experiment%202/) |
-| **Experiment 3** [Browse ↗](./Experiment%203/) |
-| **Experiment 4** [Browse ↗](./Experiment%204/) |
-| **Experiment 5** [Browse ↗](./Experiment%205/) |
-| **Experiment 6** [Browse ↗](./Experiment%206/) |
+| Experiment | Folder |
+|---|---|
+| **Exams** | [Browse ↗](./Exams/) |
+| **Experiment 1** | [Browse ↗](./Experiment%201/) |
+| **Experiment 2** | [Browse ↗](./Experiment%202/) |
+| **Experiment 3** | [Browse ↗](./Experiment%203/) |
+| **Experiment 4** | [Browse ↗](./Experiment%204/) |
+| **Experiment 5** | [Browse ↗](./Experiment%205/) |
+| **Experiment 6** | [Browse ↗](./Experiment%206/) |
 <!-- EXPERIMENTS:END -->
 
 
