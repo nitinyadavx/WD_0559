@@ -31,7 +31,7 @@ This is a work in progress. **More experiments will be added throughout the cour
 ## Experiments
 
 <!-- EXPERIMENTS:START -->
-| Experiment | Source file | Folder |
+| Experiment| Folder |
 |---|---|---|
 | **Exams** | [Browse ↗](./Exams/)
 | **Experiment 1** [Browse ↗](./Experiment%201/) |
