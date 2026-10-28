@@ -33,7 +33,7 @@ This is a work in progress. **More experiments will be added throughout the cour
 <!-- EXPERIMENTS:START -->
 | Experiment | Source file | Folder |
 |---|---|---|
-| **Exams** | [Open `index.html`](./Exams/MT1-Practical.html) | [Browse ↗](./Exams/)
+| **Exams** | [View `Practicals`](./Exams/MT1-Practical.html) | [Browse ↗](./Exams/)
 | **Experiment 1** | [Open `index.html`](./Experiment%201/index.html) | [Browse ↗](./Experiment%201/) |
 | **Experiment 2** | [Open `index.html`](./Experiment%202/index.html) | [Browse ↗](./Experiment%202/) |
 | **Experiment 3** | [Open `index.html`](./Experiment%203/index.html) | [Browse ↗](./Experiment%203/) |
