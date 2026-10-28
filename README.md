@@ -18,7 +18,6 @@
     <img src="https://img.shields.io/badge/HTML5-learning-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=17171C" alt="HTML5" />
     <img src="https://img.shields.io/github/last-commit/nitinyadavx/WD_0559?style=flat-square&color=F2A7C6&labelColor=17171C&label=last%20updated" alt="Last commit" />
     <img src="https://img.shields.io/github/stars/nitinyadavx/WD_0559?style=flat-square&color=9CA3AF&labelColor=17171C&label=stars" alt="Stars" />
-    <img src="https://img.shields.io/github/actions/workflow/status/nitinyadavx/WD_0559/update-experiments.yml?style=flat-square&labelColor=17171C&label=experiment%20index" alt="Experiment index" />
   </p>
 
   <p>
